@@ -1,3 +1,9 @@
+ABOUT:
+This is a web-based calculator app built using React. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed to be user-friendly and responsive, with a sleek and modern user interface.
+
+![Capture](https://user-images.githubusercontent.com/100038306/235306812-0d728224-5123-4710-8037-6b53f30346f3.JPG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
